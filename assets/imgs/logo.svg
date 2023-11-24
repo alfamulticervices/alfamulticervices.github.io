@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150.96 141.779">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 38.206px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: BebasNeueBold, Bebas Neue;
+      }
+
+      .cls-2 {
+        font-size: 21.299px;
+      }
+
+      .cls-4 {
+        font-size: 7.93px;
+        font-family: Helvetica;
+        letter-spacing: 0.03em;
+      }
+    </style>
+  </defs>
+  <g id="Group_53" data-name="Group 53" transform="translate(-281.921 -285.753)">
+    <text id="Food_Hut" data-name="Alfa Tvs" class="cls-1" transform="translate(357.401 393.716)"><tspan x="-66.017" y="0">Alfa Tvs</tspan></text>
+    <text id="THE" class="cls-2" transform="translate(354.267 351.211)"><tspan x="-20.257" y="0">THE</tspan></text>
+    <rect id="Rectangle_3" data-name="Rectangle 3" class="cls-3" width="145.929" height="3.316" transform="translate(284.436 358.163)"/>
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-3" width="145.929" height="3.316" transform="translate(284.436 398.699)"/>
+    <g id="Group_48" data-name="Group 48">
+  
+    </g>
+    <g id="Group_51" data-name="Group 51">
+      <g id="Group_49" data-name="Group 49">
+       
+		<path id="Path_10902" data-name="Path 10902" class="cls-3" d="M310.8,401.647,297.851,413.13a2.6,2.6,0,0,0-.17,3.671l2.357,2.579h0l.63.692a2.6,2.6,0,0,0,3.668.169l20.975-18.594Z"/>
+      </g>
+      <g id="Group_50" data-name="Group 50">
+       
+		<path id="Path_10904" data-name="Path 10904" class="cls-3" d="M396.5,401.647h-13.59l20.018,19.387a2.559,2.559,0,0,0,3.609-.045l2.393-2.458h0l.643-.658a2.561,2.561,0,0,0-.046-3.61Z"/>
+      </g>
+    </g>
+    <text id="EST_1957" data-name="DESDE 2019" class="cls-4" transform="translate(357.293 413.202)"><tspan x="-26.395" y="0">DESDE 2019</tspan></text>
+    <g id="Group_52" data-name="Group 52">
+      <path id="Path_10905" data-name="Path 10905" class="cls-3" d="M330.157,419.04l1.055,3.244h3.41l-2.76,2,1.055,3.244-2.76-2-2.76,2,1.055-3.244-2.76-2h3.41Z"/>
+      <path id="Path_10906" data-name="Path 10906" class="cls-3" d="M343.78,419.04l1.053,3.244h3.41l-2.758,2,1.053,3.244-2.758-2-2.76,2,1.053-3.244-2.759-2h3.411Z"/>
+      <path id="Path_10907" data-name="Path 10907" class="cls-3" d="M357.4,419.04l1.055,3.244h3.41l-2.76,2,1.055,3.244-2.76-2-2.76,2,1.055-3.244-2.76-2h3.41Z"/>
+      <path id="Path_10908" data-name="Path 10908" class="cls-3" d="M371.023,419.04l1.054,3.244h3.412l-2.76,2,1.054,3.244-2.76-2-2.759,2,1.055-3.244-2.762-2h3.411Z"/>
+      <path id="Path_10909" data-name="Path 10909" class="cls-3" d="M384.645,419.04l1.055,3.244h3.41l-2.76,2,1.054,3.244-2.759-2-2.76,2,1.055-3.244-2.761-2h3.411Z"/>
+    </g>
+  </g>
+</svg>

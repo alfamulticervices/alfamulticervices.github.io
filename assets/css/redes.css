@@ -1,0 +1,27 @@
+.social___ {
+	position: fixed; 
+	right:0px; 
+	top: 100px; 
+	z-index: 2000; 
+}
+
+	.social___ ul {
+		list-style: none;
+	}
+
+	.social___ ul li a {
+		display: inline-block;
+		color: transparent;
+		background: transparent;
+		
+
+	}
+
+	.social___ ul li .icon-facebook {background:yellow;} 
+	.social___ ul li .icon-twitter {background: #00ae34;}
+	.social___ ul li .icon-googleplus {background: #00ae34;}
+	.social___ ul li .icon-pinterest {background: #00ae34;}
+	.social___ ul li .icon-tiktok {background: #00ae34;}
+    .social___ ul li .icon-whatsapp {background: #00ae34}
+
+

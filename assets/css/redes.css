@@ -1,27 +1,56 @@
 .social___ {
-	position: fixed; 
-	right:0px; 
-	top: 100px; 
-	z-index: 2000; 
+	
+	right:0%; 
+	top: 150px; 
+	z-index: 5000; 
 }
 
-	.social___ ul {
-		list-style: none;
-	}
-
-	.social___ ul li a {
-		display: inline-block;
-		color: transparent;
-		background: transparent;
-		
-
-	}
-
-	.social___ ul li .icon-facebook {background:yellow;} 
-	.social___ ul li .icon-twitter {background: #00ae34;}
-	.social___ ul li .icon-googleplus {background: #00ae34;}
-	.social___ ul li .icon-pinterest {background: #00ae34;}
-	.social___ ul li .icon-tiktok {background: #00ae34;}
-    .social___ ul li .icon-whatsapp {background: #00ae34}
+.social-icon {
+  height: 46px;
+  width: 46px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 0.45rem;
+  color: #333;
+  border-radius: 50%;
+  border: 1px solid rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 1.1rem;
+  transition: 0.3s;
+}
 
 
+
+
+.social-wat:hover {
+    border: 1px solid rgb(0, 255, 0);
+  }
+  .social-wat {
+    border: 1px solid green;
+  }
+  
+
+  .social-fac:hover {
+    border: 1px solid rgb(0, 229, 255);
+  }
+  .social-fac {
+    border: 1px solid #1900ff;
+  }
+
+  .social-tik:hover {
+    border: 1px solid rgb(255, 255, 255);
+  }
+  .social-tik {
+    border: 1px solid rgb(0, 0, 0);
+
+  }
+
+  .social-inst:hover {
+    border: 1px solid rgb(255, 143, 238);
+    
+  }
+  .social-inst {
+    border: 1px solid rgb(255, 0, 217);
+
+  }

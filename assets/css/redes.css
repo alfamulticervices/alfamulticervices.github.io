@@ -1,7 +1,5 @@
-.social___ {
-	
-	right:0%; 
-	top: 150px; 
+.social___ { 
+	top: 440px; 
 	z-index: 5000; 
   height: 46px;
   width: 46px;
@@ -55,4 +53,16 @@
   .social-inst {
     border: 1px solid rgb(255, 0, 217);
 
+  }
+
+
+  .redes-sociales {
+    position: relative;
+  }
+  
+  .topright {
+    position: left;
+    top: 440px; 
+    right: 16px;
+    font-size: 18px;
   }

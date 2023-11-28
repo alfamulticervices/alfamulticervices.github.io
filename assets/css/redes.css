@@ -21,8 +21,6 @@
 }
 
 
-
-
 .social-wat:hover {
     border: 1px solid rgb(0, 255, 0);
   }
@@ -30,7 +28,6 @@
     border: 1px solid green;
   }
   
-
   .social-fac:hover {
     border: 1px solid rgb(0, 229, 255);
   }
@@ -39,7 +36,7 @@
   }
 
   .social-tik:hover {
-    border: 1px solid rgb(255, 255, 255);
+    border: 1px solid rgb(183, 183, 183);
   }
   .social-tik {
     border: 1px solid rgb(0, 0, 0);
@@ -54,6 +51,16 @@
     border: 1px solid rgb(255, 0, 217);
 
   }
+
+  .social-correo:hover {
+    border: 1px solid rgb(143, 246, 255);
+    
+  }
+  .social-correo {
+    border: 1px solid rgb(48, 129, 173);
+
+  }
+
 
 
   .redes-sociales {
